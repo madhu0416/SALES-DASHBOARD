@@ -30,3 +30,6 @@ Actionable Insights and Recommendations:
 
 Provide insights and actionable information to drive strategic decisions
 Support the supermarket's objectives for growth, efficiency, and customer satisfaction
+
+#OUTPUT 
+(https://github.com/user-attachments/files/18538717/SuperStore_Sales_Dataset.1.csv)
